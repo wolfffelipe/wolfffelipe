@@ -1,11 +1,11 @@
 ### 👋 Hi! I'm Wolff
-
+<!--
 <a href="https://github.com/wolfffelipe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfffelipe&show_icons=true&theme=ocean_dark" />
 </a>
-&nbsp;&nbsp;&nbsp;
+-->
 <a href="https://github.com/wolfffelipe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=ocean_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfffelipe&layout=compact&show_icons=true&theme=ocean_dark" />
 </a></br>
 
 ### 📚 Some skills 
@@ -15,6 +15,7 @@
   <img alt="Wolff-MYSQL" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Wolff-PYTHON" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Wolff-C" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Wolff-C++" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Wolff-PHP" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img alt="Wolff-HTML" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img alt="Wolff-CSS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
