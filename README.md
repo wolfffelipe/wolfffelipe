@@ -26,7 +26,7 @@
 
 ### 🤝 Get to know me better
 
-<a href="https://www.linkedin.com/in/felipe-wolff/">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/felipe-wolff/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
