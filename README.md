@@ -2,7 +2,7 @@
 📗 Graduated in Systems Analysis and Development
 📙 Postgraduate in Database Engineering
 
-<img alt="Wolff-MYSQL" align="center" height="30" width="40" src="[https://1drv.ms/u/s!AjBIeBnXyNbg8nzlz1j7e6DBDDLQ?e=tm5bwD](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)" />
+<img alt="Wolff-GIF" align="center" height="30" width="40" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <!--
 <a href="https://github.com/wolfffelipe">
@@ -38,6 +38,7 @@
 
 <!--
 URLS ÚTEIS
+https://tenor.com/
 https://dev.to/envoy_/150-badges-for-github-pnk
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
