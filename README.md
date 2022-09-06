@@ -2,7 +2,7 @@
 📗 Graduated in Systems Analysis and Development
 📙 Postgraduate in Database Engineering
 
-<img alt="Wolff-GIF" align="right" height="150" width="220" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+<img alt="Wolff-GIF" align="right" height="145" width="230" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <!--
 <a href="https://github.com/wolfffelipe">
