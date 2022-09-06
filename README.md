@@ -35,7 +35,6 @@
 </a>
 
 <img alt="Wolff-GIF" align="right" height="145" width="250" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-<img alt="Wolff-GIF" align="right" height="145" width="250" src="https://github.com/wolfffelipe/flutter-api-preco-bitcoin/blob/master/img/bitcoin.png" />
 
 <!--
 URLS ÚTEIS
