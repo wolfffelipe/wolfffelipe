@@ -2,8 +2,6 @@
 📗 Graduated in Systems Analysis and Development
 📙 Postgraduate in Database Engineering
 
-<img alt="Wolff-GIF" align="right" height="145" width="250" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-
 <!--
 <a href="https://github.com/wolfffelipe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfffelipe&show_icons=true&theme=ocean_dark" />
@@ -35,6 +33,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/felipe-wolff/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<img alt="Wolff-GIF" align="right" height="145" width="250" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
 <!--
 URLS ÚTEIS
