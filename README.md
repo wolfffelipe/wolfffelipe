@@ -1,7 +1,7 @@
-### 👋 Oi! Eu sou o Wolff
-📗 Graduação: **Análise e Desenvolvimento de Sistemas** </br>
-📙 Pós graduação: **MIT em Engenharia de Banco de Dados** </br>
-📘 MBA: **Gestão de Projetos**
+### 👋 Hi! I'm Wolff
+📗 Undergraduate Degree: **Systems Analysis and Development** </br>
+📙 Postgraduate Degree: **Database Engineering** </br>
+📘 MBA: **Project Management**
 
 <!--
 <a href="https://github.com/wolfffelipe">
@@ -29,7 +29,7 @@
   <img alt="Wolff-AdobePremiere" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />          
 </div></br>
 
-### 🤝 Conheça-me melhor
+### 🤝 Get to know me better
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/felipe-wolff/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
